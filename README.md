@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi 👋 nice to meet you
 
-<!--
-**Gibeeee/Gibeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a Front-End web developer, training for project management and neuro marketing.
+- I'm in the world of programming 1 year ago, I plan to learn AI focused 
+- on chats and data science
 
-Here are some ideas to get you started:
+### Skills ☝️ 
+ - JavaScript  ⭐⭐⭐⭐
+ - multimedia for marketing ⭐⭐⭐⭐⭐
+ - HTML   ⭐⭐⭐⭐⭐
+ - CSS ⭐⭐⭐⭐⭐
+ - React ⭐⭐⭐
+ - Gaming 👾👾👾👾👾
+ - English ⭐⭐⭐
+ - Teamwork ⭐⭐⭐⭐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔴 Where to find me
+
+ - [Facebook]()
+ - [Instagram](https://www.instagram.com/gibranyahel)
+ - [entrepreneurship instagram](https://www.instagram.com/across_cloth) I did it as a practice for the university 2 years ago but I just published it for examples
+ - [Tik-Tok](https://www.tiktok.com/@im_gibee?is_from_webapp=1&sender_device=pc) content just for fun
+ ### 🚀 Send me a message 
+ ### daxter219sanchez@gmail.com
+ ### +52 5611229575
