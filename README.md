@@ -21,5 +21,5 @@
  - [entrepreneurship instagram](https://www.instagram.com/across_cloth) I did it as a practice for the university 2 years ago but I just published it for examples
  - [Tik-Tok](https://www.tiktok.com/@im_gibee?is_from_webapp=1&sender_device=pc) content just for fun
  ### 🚀 Send me a message 
- ### daxter219sanchez@gmail.com
+ ### gibranyahel0@gmail.com
  ### +52 5611229575
