@@ -16,7 +16,7 @@
 
 ### 🔴 Where to find me
 
- - [Facebook]()
+ - [Facebook](https://www.facebook.com/profile.php?id=100008970512242)
  - [Instagram](https://www.instagram.com/gibranyahel)
  - [entrepreneurship instagram](https://www.instagram.com/across_cloth) I did it as a practice for the university 2 years ago but I just published it for examples
  - [Tik-Tok](https://www.tiktok.com/@im_gibee?is_from_webapp=1&sender_device=pc) content just for fun
