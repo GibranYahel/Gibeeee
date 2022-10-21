@@ -5,12 +5,13 @@
 - on chats and data science
 
 ### Skills ☝️ 
- - JavaScript  ⭐⭐⭐⭐
+
+ - JavaScript  ⭐⭐⭐⭐⭐
+ - Python ⭐⭐⭐
  - multimedia for marketing ⭐⭐⭐⭐⭐
  - HTML   ⭐⭐⭐⭐⭐
  - CSS ⭐⭐⭐⭐⭐
  - React ⭐⭐⭐
- - Gaming 👾👾👾👾👾
  - English ⭐⭐⭐
  - Teamwork ⭐⭐⭐⭐
 
