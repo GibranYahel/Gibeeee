@@ -1,7 +1,7 @@
 ### Hi 👋 nice to meet you
 
 - I'm a Front-End web developer, training for project management and neuro marketing.
-- I'm in the world of programming 1 year ago, I plan to learn AI focused 
+- I'm in the world of programming 2 year ago, I plan to learn AI focused 
 - on chats and data science
 
 ### Skills ☝️ 
